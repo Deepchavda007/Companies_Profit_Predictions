@@ -4,4 +4,5 @@ The target is to prepare an ML model which can predict  the profit value of a co
 are given.
 
 https://deepchavda007-companies-profit-predictions-app-idv8gu.streamlitapp.com/
-![1](https://user-images.githubusercontent.com/82630272/176588555-d3b18a94-6d53-44ad-8a3f-5f137cfbf875.jpg)
+
+![pr](https://user-images.githubusercontent.com/82630272/178975310-4823a8d3-615d-4e29-bbb6-dbf498223ac8.jpg)
